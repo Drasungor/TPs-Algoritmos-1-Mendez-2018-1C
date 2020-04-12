@@ -1,0 +1,13 @@
+Resumir casa no devuelve errores, es por eso que olo tiene return casa_ganadora
+
+A lo largo del trabajo se exluyeron de las funciones aquellas variables que
+llevaban al corte de una iteracion o que eran condicion directa en una
+estructura condicional para que fuera claro cuando esa variable cambia y, por
+lo tanto, cuando debe  o no entrar a las estructuras iteraciones o condicionales
+
+
+Se intento tambien cuando fuese posible dejar fuera de funciones los valores
+de retorno de las funciones base de la biblioteca admin
+
+La funcion introducir_alumno fue creada para que haya mayor claridad al leer el codigo
+y para mantener la consistencia (por obtener_alumno)

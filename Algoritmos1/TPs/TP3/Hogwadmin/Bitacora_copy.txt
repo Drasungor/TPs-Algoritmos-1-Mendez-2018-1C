@@ -1,0 +1,13 @@
+aaaa1113;fecha;5;Se reivindico y humillo publicamente a Roberto
+aerd9763;fecha;10;Esploto todo y despues lo arreglo usando su varita magica de aire
+aaaa1111;fecha;7;Le lleno la cara de marcadores a Roberto
+aaaa1143;fecha;7;Anda a saber que hizo no tengo camaras en todos lados
+aaaa1112;fecha;3;Le lleno la cara de biromes a Roberto
+aaaa1141;fecha;2;Uso magia para todes
+aaaa1113;fecha;-3;No le hizo nada a Roberto
+aerd9763;fecha;10;Esploto todo y despues lo arreglo usando su varita magica de aire
+aaaa1113;fecha;5;Ayudo a Roberto
+aaaa1111;fecha;20;Le lleno la cara de marcadores a Roberto
+aaaa1116;fecha;8;Le quemo la casa a Roberto
+aaaa1141;fecha;-2;Uso magia negra
+aaaa1122;fecha;2;Que trabajo que es este quien quiere dedicarse a escribir comentarios

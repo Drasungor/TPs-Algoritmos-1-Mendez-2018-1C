@@ -1,0 +1,27 @@
+aaaa1111;Juan Pedro Pablo;Gryffindor;1
+aaaa1112;Juan1;Gryffindor;1
+aaaa1113;Heraclio;Gryffindor;1
+aaaa1116;Bob Esponja;Gryffindor;1
+aaaa1141;Juan2;Gryffindor;2
+aaaa1142;Juan3;Gryffindor;2
+aaaa1143;Juan4;Gryffindor;2
+aaaa1144;Juan5;Gryffindor;2
+aaaa1121;Juan6;Gryffindor;5
+aaaa1122;Juan7;Gryffindor;5
+aaaa1123;Juan8;Gryffindor;5
+aaaa1124;Juan9;Gryffindor;5
+aaaa1131;Juan10;Hufflepuff;3
+aaaa1118;Juan11;Hufflepuff;3
+aaaa1127;Juan12;Hufflepuff;6
+aaaa1129;Juan13;Hufflepuff;6
+aaaa1119;Juan14;Hufflepuff;7
+aaaa1132;Juan15;Ravenclaw;3
+aaaa1133;Juan16;Ravenclaw;3
+aaaa1134;Juan17;Ravenclaw;3
+aaac1117;Juan18;Ravenclaw;4
+aaac1111;Juan19;Ravenclaw;7
+aaac1112;Juan20;Ravenclaw;7
+aaab1111;Juan21;Slytherin;5
+aaab1112;Juan22;Slytherin;5
+aaab1114;Juan23;Slytherin;6
+aaab1113;Juan24;Slytherin;7
